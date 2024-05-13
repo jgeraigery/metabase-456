@@ -25,7 +25,7 @@
     "icepick": "^1.1.0",
     "iframe-resizer": "^3.5.11",
     "inflection": "^1.7.1",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "js-cookie": "^2.1.2",
     "jsrsasign": "^7.1.0",
     "leaflet": "^1.0.1",
