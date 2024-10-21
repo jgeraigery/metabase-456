@@ -354,8 +354,7 @@ aws4@^1.2.1:
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.6.0.tgz#83ef5ca860b2b32e4a0deedee8c771b9db57471e"
 
 babel-cli@^6.11.4:
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/babel-cli/-/babel-cli-6.24.1.tgz#207cd705bba61489b2ea41b5312341cf6aca2283"
+  version "6.26.0"
   dependencies:
     babel-core "^6.24.1"
     babel-polyfill "^6.23.0"
@@ -383,8 +382,7 @@ babel-code-frame@6.22.0, babel-code-frame@^6.11.0, babel-code-frame@^6.16.0, bab
     js-tokens "^3.0.0"
 
 babel-core@^6.0.0, babel-core@^6.0.14, babel-core@^6.17.0, babel-core@^6.20.0, babel-core@^6.24.1:
-  version "6.24.1"
-  resolved "https://registry.yarnpkg.com/babel-core/-/babel-core-6.24.1.tgz#8c428564dce1e1f41fb337ec34f4c3b022b5ad83"
+  version "6.26.3"
   dependencies:
     babel-code-frame "^6.22.0"
     babel-generator "^6.24.1"
@@ -972,8 +970,7 @@ babel-plugin-transform-strict-mode@^6.24.1:
     babel-types "^6.24.1"
 
 babel-polyfill@^6.23.0, babel-polyfill@^6.6.1:
-  version "6.23.0"
-  resolved "https://registry.yarnpkg.com/babel-polyfill/-/babel-polyfill-6.23.0.tgz#8364ca62df8eafb830499f699177466c3b03499d"
+  version "6.26.0"
   dependencies:
     babel-runtime "^6.22.0"
     core-js "^2.4.0"
@@ -1570,8 +1567,7 @@ clap@^1.0.9:
     chalk "^1.1.3"
 
 classnames@^2.1.3, classnames@^2.2.3, classnames@^2.2.5:
-  version "2.2.5"
-  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.5.tgz#fb3801d453467649ef3603c7d61a02bd129bde6d"
+  version "2.5.1"
 
 clean-css@4.0.x:
   version "4.0.12"
@@ -2800,8 +2796,7 @@ eslint-import-resolver-webpack@^0.8.0:
     semver "^5.3.0"
 
 eslint-loader@^1.6.0:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/eslint-loader/-/eslint-loader-1.7.1.tgz#50b158dd6272dcefb97e984254837f81a5802ce0"
+  version "1.9.0"
   dependencies:
     find-cache-dir "^0.1.1"
     loader-fs-cache "^1.0.0"
@@ -2818,14 +2813,12 @@ eslint-module-utils@^2.0.0:
     pkg-dir "^1.0.0"
 
 eslint-plugin-flowtype@^2.22.0:
-  version "2.30.4"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.30.4.tgz#771d6bb4578ab8598e9c58018fea2e1a22946249"
+  version "2.50.3"
   dependencies:
     lodash "^4.15.0"
 
 eslint-plugin-import@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.2.0.tgz#72ba306fad305d67c4816348a4699a4229ac8b4e"
+  version "2.31.0"
   dependencies:
     builtin-modules "^1.1.1"
     contains-path "^0.1.0"
@@ -3876,8 +3869,7 @@ indexof@0.0.1:
   resolved "https://registry.yarnpkg.com/indexof/-/indexof-0.0.1.tgz#82dc336d232b9062179d05ab3293a66059fd435d"
 
 inflection@^1.7.1:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/inflection/-/inflection-1.12.0.tgz#a200935656d6f5f6bc4dc7502e1aecb703228416"
+  version "1.13.4"
 
 inflight@^1.0.4:
   version "1.0.6"
@@ -4329,8 +4321,7 @@ jasmine-promises@^0.4.1:
   resolved "https://registry.yarnpkg.com/jasmine-promises/-/jasmine-promises-0.4.1.tgz#386b63e2c714d33d9b1b7adae507773366dbf0ab"
 
 jasmine-reporters@^2.2.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/jasmine-reporters/-/jasmine-reporters-2.2.1.tgz#de9a9201367846269e7ca8adff5b44221671fcbd"
+  version "2.5.2"
   dependencies:
     mkdirp "^0.5.1"
     xmldom "^0.1.22"
@@ -4342,8 +4333,7 @@ jasmine-spec-reporter@^3.0.0:
     colors "1.1.2"
 
 jasmine@^2.4.1:
-  version "2.5.3"
-  resolved "https://registry.yarnpkg.com/jasmine/-/jasmine-2.5.3.tgz#5441f254e1fc2269deb1dfd93e0e57d565ff4d22"
+  version "2.99.0"
   dependencies:
     exit "^0.1.2"
     glob "^7.0.6"
@@ -4580,8 +4570,7 @@ js-base64@^2.1.9, js-base64@~2.1.8:
   resolved "https://registry.yarnpkg.com/js-base64/-/js-base64-2.1.9.tgz#f0e80ae039a4bd654b5f281fc93f04a914a7fcce"
 
 js-cookie@^2.1.2:
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/js-cookie/-/js-cookie-2.1.4.tgz#da4ec503866f149d164cf25f579ef31015025d8d"
+  version "2.2.1"
 
 js-managed-css@^1.4.1:
   version "1.4.2"
@@ -4645,8 +4634,7 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
 
 json-loader@^0.5.4:
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/json-loader/-/json-loader-0.5.4.tgz#8baa1365a632f58a3c46d20175fc6002c96e37de"
+  version "0.5.7"
 
 json-schema@0.2.3:
   version "0.2.3"
@@ -4835,8 +4823,7 @@ leaflet.heat@^0.2.0:
   resolved "https://registry.yarnpkg.com/leaflet.heat/-/leaflet.heat-0.2.0.tgz#109d8cf586f0adee41f05aff031e27a77fecc229"
 
 leaflet@^1.0.1:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.0.3.tgz#1f401b98b45c8192134c6c8d69686253805007c8"
+  version "1.9.4"
 
 leven@^2.0.0:
   version "2.1.0"
@@ -5616,8 +5603,7 @@ normalize-url@^1.4.0:
     sort-keys "^1.0.0"
 
 normalizr@^3.0.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/normalizr/-/normalizr-3.2.2.tgz#542e915a260ca53279b76a63fb554185e9225f90"
+  version "3.6.2"
 
 npm-path@^2.0.2:
   version "2.0.3"
@@ -6913,8 +6899,7 @@ react-motion@^0.4.5:
     raf "^3.1.0"
 
 react-redux@^5.0.4:
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-5.0.4.tgz#1563babadcfb2672f57f9ceaa439fb16bf85d55b"
+  version "5.1.2"
   dependencies:
     create-react-class "^15.5.1"
     hoist-non-react-statics "^1.0.3"
@@ -6925,8 +6910,7 @@ react-redux@^5.0.4:
     prop-types "^15.0.0"
 
 react-resizable@^1.0.1:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/react-resizable/-/react-resizable-1.6.0.tgz#7968c456538a349db1742680f9a05dc9780e6188"
+  version "1.11.1"
   dependencies:
     react-draggable "^2.1.0"
 
@@ -6947,8 +6931,7 @@ react-router-redux@^4.0.8:
   resolved "https://registry.yarnpkg.com/react-router-redux/-/react-router-redux-4.0.8.tgz#227403596b5151e182377dab835b5d45f0f8054e"
 
 react-router@3:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/react-router/-/react-router-3.0.5.tgz#c3b7873758045a8bbc9562aef4ff4bc8cce7c136"
+  version "3.2.6"
   dependencies:
     create-react-class "^15.5.1"
     history "^3.0.0"
@@ -6974,8 +6957,7 @@ react-textarea-autosize@^4.0.5:
   resolved "https://registry.yarnpkg.com/react-textarea-autosize/-/react-textarea-autosize-4.0.5.tgz#55379f6a6fa575fc87d1b8de2756e57e3b6c995d"
 
 react-virtualized@^9.7.2:
-  version "9.7.3"
-  resolved "https://registry.yarnpkg.com/react-virtualized/-/react-virtualized-9.7.3.tgz#5be2bbc0316151ee1c00d133f7a5f9727874f756"
+  version "9.22.5"
   dependencies:
     babel-runtime "^6.11.6"
     classnames "^2.2.3"
@@ -7166,8 +7148,7 @@ redux-router@^2.1.2:
     deep-equal "^1.0.1"
 
 redux-thunk@^2.0.1:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.2.0.tgz#e615a16e16b47a19a515766133d1e3e99b7852e5"
+  version "2.4.2"
 
 redux@^3.5.2:
   version "3.6.0"
@@ -7404,8 +7385,7 @@ reselect@^3.0.0:
   resolved "https://registry.yarnpkg.com/reselect/-/reselect-3.0.0.tgz#b2e35977f03048700028eaee3a8c0639e40e8f35"
 
 resize-observer-polyfill@^1.3.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/resize-observer-polyfill/-/resize-observer-polyfill-1.4.2.tgz#a37198e6209e888acb1532a9968e06d38b6788e5"
+  version "1.5.1"
 
 resolve-from@^1.0.0:
   version "1.0.1"
@@ -8337,8 +8317,7 @@ unc-path-regex@^0.1.0:
   resolved "https://registry.yarnpkg.com/unc-path-regex/-/unc-path-regex-0.1.2.tgz#e73dd3d7b0d7c5ed86fbac6b0ae7d8c6a69d50fa"
 
 underscore@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.8.3.tgz#4f3fb53b106e6097fcf9cb4109f2a5e9bdfa5022"
+  version "1.12.1"
 
 unherit@^1.0.4:
   version "1.1.0"
@@ -8708,8 +8687,7 @@ webpack-dev-server@^1.16.2:
     webpack-dev-middleware "^1.4.0"
 
 webpack-hot-middleware@^2.14.0:
-  version "2.18.0"
-  resolved "https://registry.yarnpkg.com/webpack-hot-middleware/-/webpack-hot-middleware-2.18.0.tgz#a16bb535b83a6ac94a78ac5ebce4f3059e8274d3"
+  version "2.26.1"
   dependencies:
     ansi-html "0.0.7"
     html-entities "^1.2.0"
