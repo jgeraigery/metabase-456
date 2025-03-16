@@ -7096,8 +7096,7 @@ rechoir@^0.6.2:
     resolve "^1.1.6"
 
 recompose@^0.23.1:
-  version "0.23.1"
-  resolved "https://registry.yarnpkg.com/recompose/-/recompose-0.23.1.tgz#577613e24a7ff56f9ca6b899190f8a9c0857fc20"
+  version "0.23.2"
   dependencies:
     change-emitter "^0.1.2"
     fbjs "^0.8.1"
